@@ -12,6 +12,7 @@ catalogs = [
     'http://dataratp.opendatasoft.com',
     'http://public.opendatasoft.com',
     'http://ressources.data.sncf.com',
+    'http://data.enseignementsup-recherche.gouv.fr',
 ]
 
 def datasets(get, catalog):
